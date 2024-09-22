@@ -1,4 +1,4 @@
-# ###zabbix-api
+# zabbix-api
 
 Esse projeto consome a API do zabbix, e faz parte de um estudo para integração do ZABBIX com o projeto <a href="https://github.com/esnet/react-network-diagrams">react-network-diagrams</a> desenvolvido por <a href="https://github.com/esnet">esnet</a> com o objetivo de mostrar um mapa contendo elementos de rede.
 
